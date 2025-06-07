@@ -5,6 +5,6 @@ public class hackerRank1 {
            System.out.println("Hello, World.\nHello, Java.");
             // System.out.println("Hello, Java.");
         }
-    }
+
 
 }
