@@ -1,4 +1,4 @@
-package ex_01_Java_Basic;
+package ternary_operator;
 
 public class ternaryEvenNumber {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ex_01_Java_Basic;
+package ternary_operator;
 
 public class ternaryMaxNumber {
     public static void main(String[] args) {
