@@ -1,4 +1,4 @@
-package ex_01_Java_Basic;
+package typecasting;
 
 public class datatypeTypeCasting {
     public static void main(String[] args) {
