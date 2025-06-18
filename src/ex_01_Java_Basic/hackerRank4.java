@@ -15,4 +15,4 @@ public class hackerRank4 {
             // Complete this line
         }
     }
-}
+
