@@ -2,13 +2,13 @@ package ATB13xTest;
 
 public class dataTypesDefaullt {
         public static void main(String[] args) {
-            int i = 0;
-            short s = 0;
-            byte b=0;
-            long l=0;
-            float f=0;
-            double d=0;
-            char c=0;
+            int i = 100;
+            short s = 10;
+            byte b=1;
+            long l=1986530;
+            float f=3.14;
+            double d=67.899;
+            char c=A;
             boolean bl=false;
             System.out.println("Int : "+i+"\nShort : "+s+"\nByte : "+b+"\nLong : "+l+"\nFloat : "+f+"\nDecimal : "+d+"\nChar : "+c+"\nBoolean : "+bl);
         }
