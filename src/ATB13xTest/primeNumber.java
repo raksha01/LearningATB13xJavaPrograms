@@ -11,7 +11,7 @@ public class primeNumber {
             }
         }
         if (prime) {
-            System.out.println(n);
+            System.out.println(n+"\t");
         }
     }
     }
