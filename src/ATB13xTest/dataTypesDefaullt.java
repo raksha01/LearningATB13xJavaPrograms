@@ -10,7 +10,7 @@ public class dataTypesDefaullt {
             double d=67.899;
             char c=A;
             boolean bl=false;
-            System.out.println("Int : "+i+"\nShort : "+s+"\nByte : "+b+"\nLong : "+l+"\nFloat : "+f+"\nDecimal : "+d+"\nChar : "+c+"\nBoolean : "+bl);
+            System.out.println("Integer: "+i+"\nShort : "+s+"\nByte : "+b+"\nLong : "+l+"\nFloat : "+f+"\nDecimal : "+d+"\nChar : "+c+"\nBoolean : "+bl);
         }
     
 
