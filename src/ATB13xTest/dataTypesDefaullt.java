@@ -6,9 +6,9 @@ public class dataTypesDefaullt {
             short s = 10;
             byte b=1;
             long l=1986530;
-            float f=3.14;
+            float f=3.14f;
             double d=67.899;
-            char c=A;
+            char c='A';
             boolean bl=false;
             System.out.println("Integer: "+i+"\nShort : "+s+"\nByte : "+b+"\nLong : "+l+"\nFloat : "+f+"\nDecimal : "+d+"\nChar : "+c+"\nBoolean : "+bl);
         }
